@@ -23,7 +23,7 @@ load_paths:
 - app/mailers
 - app/models
 - app/models/concerns
-- packages/package_one/lib
+# - packages/package_one/lib # validate fail on purpose
 - packages/package_two/lib
 
 # List of custom associations, if any
